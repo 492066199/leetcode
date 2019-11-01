@@ -1,0 +1,8 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+.idea
+leetcode.iml
+target
+src/main/java/com/sailing/leetcode/solution5/Solution1.java___jb_tmp___
